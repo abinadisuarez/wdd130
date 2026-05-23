@@ -79,3 +79,7 @@ h1 {
   float: right;
   width: 125px;
 }
+
+footer {
+    color: var(--accent1-color);
+}
