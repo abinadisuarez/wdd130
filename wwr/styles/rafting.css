@@ -3,7 +3,7 @@
   --primary-color: #0d5ea7;  
   --secondary-color: #ffffff;
   --accent1-color: #3cb4e7; 
-  --accent2-color: #d17519;
+  --accent2-color: #000000;
   --heading-font: "Impact", "Arial Black", -apple-system, sans-serif;
   --body-font: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
@@ -16,7 +16,7 @@
 
 body {
     font-family: var(--body-font);
-    color: var(--accent1-color);
+    color: var(--accent2-color);
 }
 
 header, main, footer {
