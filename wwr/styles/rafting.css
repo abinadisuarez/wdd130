@@ -19,6 +19,10 @@ body {
     color: var(--accent2-color);
 }
 
+footer {
+    color: var(--accent1-color);
+}
+
 header, main, footer {
   width: 840px;
   margin: 0 auto;
@@ -78,8 +82,4 @@ h1 {
 .hero article img {
   float: right;
   width: 125px;
-}
-
-footer {
-    color: var(--accent1-color);
 }
