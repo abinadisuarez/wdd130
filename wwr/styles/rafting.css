@@ -1,11 +1,9 @@
 :root {
   /* Brand Colors from Logo */
   --primary-color: #0d5ea7;  
-  --secondary-color: #f39221;
+  --secondary-color: #ffffff;
   --accent1-color: #3cb4e7; 
   --accent2-color: #d17519;
-  --text-light: #ffffff;
-  --bg-dark: #1e293b;
   --heading-font: "Impact", "Arial Black", -apple-system, sans-serif;
   --body-font: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
@@ -63,7 +61,7 @@ h1 {
   text-align: center;
   opacity: 0.7;
   background-color: var(--primary-color);
-  color: var(--text-light);
+  color: var(--secondary-color);
 }
 
 .hero article {
@@ -74,7 +72,7 @@ h1 {
   text-align: left;
   opacity: 0.7;
   background-color: var(--primary-color);
-  color: var(--text-light);
+  color: var(--secondary-color);
 }
 
 .hero article img {
