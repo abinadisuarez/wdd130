@@ -50,6 +50,12 @@ p {
     padding: 0;
 }
 
+footer {
+  background-color: #3e3e3e;
+  color: #fff;
+  padding: 2rem 1rem;
+}
+
 aside {
     width: 20rem;
     text-align: center;
