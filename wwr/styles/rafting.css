@@ -148,6 +148,7 @@ h1 {
 
 .address-section p {
     margin: 0.2rem 0;
+    line-height: 0.5;
     font-weight: bold;
     font-size: 1.1rem;
 }
